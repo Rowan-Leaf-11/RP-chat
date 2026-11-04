@@ -1,0 +1,5 @@
+venv
+__pycache__
+.streamlit
+chat_save.json
+.DS_Store

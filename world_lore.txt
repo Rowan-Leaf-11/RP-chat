@@ -1,0 +1,72 @@
+WORLD NAME: Aethelgard
+
+SETTING OVERVIEW:
+A realm scarred by a cataclysmic Mana Fall. Raw, unstable magic creeps across the wilderness, mutating flora and fauna. Civilization survives inside heavily fortified city-states powered by Ley-Shields.
+
+KEY LOCATIONS:
+- Oakhaven (Capital City):
+    * The Spire District: Home to the High Mages, nobility, and the Grand Archives. Clean, marble architecture protected by dense wards.
+    * The Rust Quarter: The sprawling lower slums filled with black markets, mercenaries, rogue alchemists, and outcasts.
+    * The Iron Gate: The massive outer wall and militarized checkpoint separating the city from the wasteland.
+- The Ashen Wasteland: The desolate wilderness surrounding Oakhaven. Filled with crystal monstrosities and ancient, crumbling ruins.
+
+FACTIONS & FACTION RULES:
+- The Obsidian Order: Elite mage-knights who enforce order in Oakhaven and strictly regulate magic usage.
+- The Scavenger Guild: A loosely organized network of prospectors who brave the wasteland for ancient artifacts.
++-----------------------------------------------------------------------------------+
+|                                 THE SPIRE DISTRICT                                |
+|  - High Council Chambers                                                          |
+|  - Grand Archives (Restricted)                                                    |
+|  - Noble Dormitories & Gilded Gardens                                             |
++-----------------------------------------------------------------------------------+
+                                        |
+                                        v
++-----------------------------------------------------------------------------------+
+|                            AEGIS ACADEMY (CAMPUS)                                 |
+|                                                                                   |
+|  [UPPER COMMONS / LECTURE SPIRE]                                                  |
+|   * Theory Halls, Grand Library, Clockwork Archivist's Office                     |
+|     -> Likely:            |
+|                                                                                   |
+|  [THE MUD PITS / DRILL GROUNDS]                                                   |
+|   * Rain-slicked arenas, obstacle tracks, armory ring                             |
+|     -> Likely:                |
+|                                                                                   |
+|  [THE SUB-LEVEL ANNEX / SCORCHED LABS]                                            |
+|   * Abandoned steam ducts, volatile reagent store, basement smelters              |
+|     -> Likely: 
++-----------------------------------------------------------------------------------+
+|  [THE SUB-LEVEL ANNEX / SCORCHED LABS] (Continued)                                |
+|   * Abandoned steam ducts, volatile reagent store, basement smelters              |
+|     -> Likely:        |
+|                                                                                   |
+|  [THE CENTRAL FORUM & COMMONS]                                                    |
+|   * Dining cloisters, bulletin pillars, paved courtyards                          |
+|     -> Likely: |
+|                                                                                   |
+|  [THE INFIRMARY CLOISTERS]                                                        |
+|   * Sterilized wardrooms overlooking the inner gardens                            |
+|     -> Likely:     |
+|                                                                                   |
+|  [THE ROOKERY & PERIMETER WALLS]                                                  |
+|   * High ramparts, bell towers, blind spots beyond ward-lights                    |
+|     -> Likely:            |
++-----------------------------------------------------------------------------------+
+                                        |
+                                        v
++-----------------------------------------------------------------------------------+
+|                                 THE RUST QUARTER                                  |
+|  - Black-Market Bazaars & Low Alehouses                                           |
+|  - Smelter Tenements & Scrap Forges                                               |
+|    -> Likely off-campus: Campus Broker's contacts, Rebel Mentor’s safehouses,      |
+|       Ghost’s old haunts, Ley-Mechanic scavenging spare conduits                  |
++-----------------------------------------------------------------------------------+
+                                        |
+                                        v
++-----------------------------------------------------------------------------------+
+|                         THE IRON GATE & BEYOND                                    |
+|  - Bastion Checkpoint & Vanguard Barracks                                         |
+|    -> Likely: Obsidian Order patrols, Ghost’s old comrades                       |
+|  - The Ashen Wasteland & The Verge                                                |
+|    -> Likely: Garret (scavenging), Rowan (drifting), Aria’s Hearth Cabin (Haven)  |
++-----------------------------------------------------------------------------------+
