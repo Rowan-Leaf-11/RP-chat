@@ -1,5 +1,0 @@
-$env:GEMINI_API_KEY="AQ.Ab8RN6KkobFPJADwLK5-cqwqMDd5RXbNoipt8sInH097eEk6-g"
-
-cd C:\Users\flamm\Desktop\code
-.\venv\Scripts\Activate
-streamlit run app_st.py
